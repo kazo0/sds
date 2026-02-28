@@ -199,11 +199,11 @@ export function Calendar<T extends DateValue>({
   return (
     <RACCalendar className={classNames} {...props}>
       <header className="calendar-header">
-        <IconButton aria-label="Previous month" variant="subtle">
+        <IconButton slot="previous" aria-label="Previous month" variant="subtle">
           <IconChevronLeft />
         </IconButton>
         <RACHeading className="calendar-heading" />
-        <IconButton aria-label="Next month" variant="subtle">
+        <IconButton slot="next" aria-label="Next month" variant="subtle">
           <IconChevronRight />
         </IconButton>
       </header>

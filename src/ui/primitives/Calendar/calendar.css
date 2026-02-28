@@ -27,23 +27,22 @@
 
 .calendar-grid {
   padding-top: var(--sds-size-space-400);
+  border-collapse: collapse;
+  width: 100%;
 }
 
 .calendar-grid-header-cell {
-  font-family: var(--fonts-font-sans);
-  font-size: var(--size-text-xs);
-  font-weight: var(--weight-font-normal);
+  font-family: var(--sds-typography-body-font-family);
+  font-size: var(--sds-typography-body-size-small);
+  font-weight: var(--sds-typography-body-font-weight-regular);
   color: var(--sds-color-text-default-secondary);
   text-align: center;
-  line-height: var(--leading-leading-tight);
-  padding: var(--sds-size-space-400);
+  padding: var(--sds-size-space-200);
   width: 40px;
   height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
+/* RAC applies className + data-attrs to the inner <div role="button">, not the <td> */
 .calendar-cell {
   display: flex;
   align-items: center;
@@ -55,7 +54,6 @@
   font-size: var(--sds-typography-body-size-medium);
   font-weight: var(--sds-typography-body-font-weight-regular);
   color: var(--sds-color-text-default-default);
-  text-align: center;
   cursor: pointer;
   outline: none;
 }

@@ -31,6 +31,13 @@
       "<FIGMA_BUTTONS_BUTTON_GROUP>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=2072-9432",
       "<FIGMA_BUTTONS_BUTTON>": "https://www.figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4185-3778",
       "<FIGMA_BUTTONS_ICON_BUTTON>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=11-11508",
+
+      "<FIGMA_CALENDAR_CALENDAR>": "https://www.figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4333-9262",
+      "<FIGMA_CALENDAR_CALENDAR_BUTTON>": "https://www.figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4333-9359",
+      "<FIGMA_CALENDAR_CALENDAR_MONTH_FIELD>": "https://www.figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4333-10557",
+      "<FIGMA_CALENDAR_CALENDAR_YEAR_FIELD>": "https://www.figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4333-12221",
+      "<FIGMA_CALENDAR_CALENDAR_SELECT_GROUP>": "https://www.figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4333-10858",
+
       "<FIGMA_CARDS_CARD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=2142-11380",
       "<FIGMA_CARDS_PRICING_CARD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=1444-11846",
       "<FIGMA_CARDS_PRODUCT_INFO_CARD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=7753-4465",
@@ -55,6 +62,7 @@
       "<FIGMA_INPUTS_SLIDER_FIELD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=589-17676",
       "<FIGMA_INPUTS_SWITCH_FIELD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=9762:1902",
       "<FIGMA_INPUTS_TEXTAREA_FIELD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=9762-3088",
+      "<FIGMA_INPUTS_DATEPICKER_FIELD>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=4300-6892",
       "<FIGMA_MENU_MENU_HEADER>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=9762:728",
       "<FIGMA_MENU_MENU_HEADING>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=9762:760",
       "<FIGMA_MENU_MENU_ITEM>": "https://figma.com/design/LvpTeY755bpjP9E5mSsi86?node-id=9762:743",
